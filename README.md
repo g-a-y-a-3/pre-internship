@@ -29,3 +29,6 @@ Process:
 3) Model building:ML models like SVM,Naive Bayes,or deep learning models like RNN or CNN  and transformer models are trained on labeled dataset.
 4) Models are evaluted using accuracy,F1-score etc.
 
+
+The research papers serves as a significant stepping stone in the ongoing journey toward more comprehensive, content-aware and ethical sentiment analysis in the realm of NLP.  
+
